@@ -4,7 +4,7 @@
         <title>Smart Data Lake Builder Blog</title>
         <link>https://www.smartdatalake.ch/blog</link>
         <description>Smart Data Lake Builder Blog</description>
-        <lastBuildDate>Thu, 09 Nov 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[SDLB UI Updated!]]></title>
             <link>https://www.smartdatalake.ch/blog/sdl-uidemo</link>
             <guid>https://www.smartdatalake.ch/blog/sdl-uidemo</guid>
-            <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
+            <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Data Pipeline Visualization Tool]]></description>
             <content:encoded><![CDATA[<p>We are thrilled to announce a major overhaul of the <strong>SDLB UI</strong> designed to revolutionize the way we visualize, track, and manage data pipelines!
 This addition to SDLB acts as a user-friendly technical data catalog that showcases dependencies through a lineage graph, along with metadata about data pipeline execution (workflows).</p>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.smartdatalake.ch/blog</id>
     <title>Smart Data Lake Builder Blog</title>
-    <updated>2023-11-09T00:00:00.000Z</updated>
+    <updated>2024-09-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.smartdatalake.ch/blog"/>
     <subtitle>Smart Data Lake Builder Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[SDLB UI Updated!]]></title>
         <id>https://www.smartdatalake.ch/blog/sdl-uidemo</id>
         <link href="https://www.smartdatalake.ch/blog/sdl-uidemo"/>
-        <updated>2023-11-09T00:00:00.000Z</updated>
+        <updated>2024-09-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Data Pipeline Visualization Tool]]></summary>
         <content type="html"><![CDATA[<p>We are thrilled to announce a major overhaul of the <strong>SDLB UI</strong> designed to revolutionize the way we visualize, track, and manage data pipelines!
 This addition to SDLB acts as a user-friendly technical data catalog that showcases dependencies through a lineage graph, along with metadata about data pipeline execution (workflows).</p>
